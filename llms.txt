@@ -1,0 +1,35 @@
+# Fitness Track Gym — AI-readable business summary
+
+## Entity
+Fitness Track Gym is a fitness center in Sahibabad, Ghaziabad, Uttar Pradesh, India.
+
+## Address
+Ganesh Complex, 1st Floor, Shalimar Garden Ext 1, Opp. New Power House, Sahibabad, Ghaziabad, Uttar Pradesh 201006.
+
+## Contact
+Phone: +91 96672 00924
+Email: fitness.track@gmail.com
+
+## Services listed in the supplied Google Business Profile
+- Aerobics
+- CrossFit
+- Zumba
+- Personal Training
+- Cycling
+
+## Profile information supplied for this website
+- Rating shown: 4.4
+- Reviews shown: 367
+- Status shown: Open; closes at 10:00 PM
+
+## Website actions
+- Free trial request via WhatsApp
+- Phone call
+- WhatsApp enquiry
+- Google Maps directions
+
+## Accuracy note
+The rating, review count, status and service list above were transcribed from a Google Business Profile screenshot supplied for this website. Live information can change. For current fees, exact opening hours, offers, availability and membership terms, contact Fitness Track Gym directly.
+
+## Website
+The website is a static multi-page site designed for SEO, answer-oriented content, local entity understanding and AI-readable business information.

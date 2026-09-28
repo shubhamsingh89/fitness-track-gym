@@ -1,0 +1,7 @@
+1. Replace https://example.com in all HTML canonical tags with the live domain.
+2. Replace example.com in sitemap.xml and robots.txt with the live domain.
+3. Add real gym photos under assets/images/ and update image paths in assets/js/site-config.js if filenames change.
+4. Verify phone, WhatsApp, email, address, services, hours, offers and membership information.
+5. Deploy the folder to Cloudflare Pages, Netlify or GitHub Pages.
+6. Add the live sitemap to Google Search Console.
+7. Test all mobile buttons: Call, WhatsApp, Directions and Free Trial.
