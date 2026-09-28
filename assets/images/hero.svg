@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#171717"/>
+<rect x="60" y="60" width="1080" height="680" rx="36" fill="none" stroke="#e63946" stroke-width="5" opacity=".55"/>
+<circle cx="920" cy="180" r="120" fill="#e63946" opacity=".12"/>
+<path d="M230 530 L300 420 L420 470 L520 300 L620 470 L760 390 L890 520" fill="none" stroke="#e63946" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="90" y="150" fill="white" font-family="Arial, sans-serif" font-size="58" font-weight="800">TRAIN STRONG.</text>
+<text x="90" y="205" fill="#cfcfcf" font-family="Arial, sans-serif" font-size="28">Live Strong.</text>
+<text x="90" y="690" fill="#e63946" font-family="Arial, sans-serif" font-size="24" font-weight="700">FITNESS TRACK GYM • SAHIBABAD</text>
+</svg>
